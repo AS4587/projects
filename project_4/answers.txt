@@ -51,8 +51,11 @@ WHERE f.status = 'Cancelled'
 
 Вопрос 2.
 
-SELECT DISTINCT a.model
+SELECT count(DISTINCT a.model)
 FROM dst_project.aircrafts a
+WHERE a.model like 'Boeing%'
+                   'Sukhoi%'
+                   'Airbus%'
 
 Boeing: 3
 
