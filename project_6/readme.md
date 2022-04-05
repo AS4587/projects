@@ -1,7 +1,8 @@
 Project №6. Car Price Predict
+
 Task.
 
-    Predict car prices in test data part
+    Predict car prices in test data where target is missing
 
 Job.
 
