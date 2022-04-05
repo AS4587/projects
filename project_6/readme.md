@@ -34,9 +34,10 @@ Conclusions.
     Had time only for stacking
     
 What's next?
-    * Want to continue
-    * Try other models, make deeper EDA analisys and feature engenering
-    * Try ansamble and blending
+
+     * Want to continue
+     * Try other models, make deeper EDA analisys and feature engenering
+     * Try ansamble and blending
     
 Big data take very, very much time!
 
