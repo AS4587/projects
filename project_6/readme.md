@@ -16,7 +16,8 @@ Conclusions.
     * Parsing:
     Code isn't working properly, but!
     Slow way sending by one car model in cycle manually I took out more than 3gb of info :)
-    Problem was how I understand in parsing speed, cause sometimes cycle just didn't find some info in path, like 'KeyError: 'offers' '. When I was checking         location manually there was info. I Just didn't have time to find where to put time.sleep()
+    Problem was how I understand in parsing speed, cause sometimes cycle just didn't find some info in path, like 'KeyError: 'offers' '.
+    When I was checking location manually there was info. I Just didn't have time to find where to put time.sleep()
     
     * Preprocessing of data which already exsist:
     Make everything what I can, think done well.
