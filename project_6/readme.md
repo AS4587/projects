@@ -39,6 +39,7 @@ What's next?
      * Want to continue
      * Try other models, make deeper EDA analisys and feature engenering
      * Try ansamble and blending
+     * Use target encoding and standart scaler
     
 Big data take very, very much time!
 
